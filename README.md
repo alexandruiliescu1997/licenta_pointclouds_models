@@ -1,1 +1,1 @@
-# model trained on the same algorithm
+# licenta_pointclouds_models
